@@ -1,13 +1,5 @@
 # terraform-modules
-Criando artefatos na AWS via Terraform Modules
-
-Como isso é possível? Através do LocalStack: uma ferramenta capaz de simular a maioria dos componentes AWS (Parameter Store, SQS, Secrets, etc).
-
-No vídeo a seguir, explico a instalação de uma stack no Linux, composto por Docker, LocalStack, AWSCLI e provisionando a infra usando Terraform.
-
-https://www.youtube.com/watch?v=c-bYqrQF98Y
-
-[![Simulando um ambiente da AWS local](https://img.youtube.com/vi/c-bYqrQF98Y/0.jpg)](https://www.youtube.com/watch?v=c-bYqrQF98Y)
+Simplifique a criação de infraestrutura na AWS, utilizando módulos em Terraform.
 
 ---
 
